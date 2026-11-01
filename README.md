@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:1F6FEB&height=200&section=header&text=Omar%20Charlie&fontSize=46&fontColor=FFFFFF&animation=fadeIn&desc=Software%20Developer&descSize=18&descAlignY=72" width="100%"/>
+<img src="./logo.svg" width="110" alt="Logo Omar Charlie"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:1F6FEB&height=220&section=header&text=Omar%20Charlie&fontSize=46&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=Software%20Developer&descSize=18&descAlignY=56" width="100%"/>
 
 <a href="https://github.com/otaype-wq"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=%3E+Hola%2C+soy+Omar+%F0%9F%91%8B;%3E+Desarrollador+de+software;%3E+Construyendo+soluciones+con+c%C3%B3digo;%3E+Lima%2C+Per%C3%BA+%F0%9F%87%B5%F0%9F%87%AA" alt="Typing SVG"/></a>
 
@@ -40,10 +42,7 @@ const omar = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=otaype-wq&show_icons=true&theme=github_dark&hide_border=true&locale=es"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaype-wq&layout=compact&theme=github_dark&hide_border=true&locale=es"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=otaype-wq&theme=github-compact&hide_border=true&area=true" width="95%"/>
+<img src="https://streak-stats.demolab.com?user=otaype-wq&theme=github-dark-blue&hide_border=true&locale=es" alt="Racha de contribuciones"/>
 
 </div>
 
